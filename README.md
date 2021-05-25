@@ -1,6 +1,6 @@
 # Computational Aerodynamics and Hypersonics Laboratory
 
-Computational Fluid Dynamics (CFD) codes developed in the Computational Aerodynamics and Hypersonics Laboratory.
+Computational Fluid Dynamics (CFD) codes developed in the Computational Hypersonics and Aerodynamics Laboratory.
 
 
 001-Compressible_Similarity_Fehlberg_Interactive.jl (Compressible Falkner-Skan coupled with Energy Equation);
